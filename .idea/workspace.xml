@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f48570d4-5623-484c-9710-76c68db56077" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../spring-security-kerberos/src/main/java/com/baeldung/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-security-kerberos/src/main/java/com/baeldung/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$USER_HOME$/.vimrc" beforeDir="false" afterPath="$USER_HOME$/.vimrc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +61,8 @@
       <updated>1591557940558</updated>
       <workItem from="1591558530578" duration="4825000" />
       <workItem from="1591599000873" duration="937000" />
+      <workItem from="1591600119046" duration="874000" />
+      <workItem from="1591601141836" duration="43000" />
     </task>
     <servers />
   </component>
@@ -68,6 +70,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="518" y="268" width="597" height="402" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591600276026">
+      <screen x="43" y="32" width="1557" height="868" />
+    </state>
+    <state x="518" y="268" width="597" height="402" key="#com.intellij.fileTypes.FileTypeChooser/43.32.1557.868@43.32.1557.868" timestamp="1591600276026" />
     <state width="1511" height="297" key="GridCell.Tab.0.bottom" timestamp="1591568504798">
       <screen x="43" y="32" width="1557" height="868" />
     </state>

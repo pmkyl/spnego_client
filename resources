@@ -1,0 +1,17 @@
+https://docs.oracle.com/javase/10/security/source-code-advanced-security-programming-java-se-authentication-secure-communication-and-single-sig.htm#GUID-40AF52E5-ECEA-4E5F-B0C1-35C150C7BB6E__GSSSPNEGOCLIENT.JAVA-338B7C31
+
+https://docs.oracle.com/javase/10/security/part-v-secure-authentication-using-spnego-java-gss-mechanism.htm#JSSEC-GUID-B51B4169-BD5D-4A19-BC2B-7F6B3ABB9B7A
+
+https://github.com/nddipiazza/spnego-http-client
+
+https://www.baeldung.com/spring-security-kerberos
+
+http://www.microhowto.info/howto/configure_firefox_to_authenticate_using_spnego_and_kerberos.html
+
+http://techpubs.spinlocksolutions.com/dklar/ldap.html
+
+http://techpubs.spinlocksolutions.com/dklar/kerberos.html#Testing_connection
+
+https://www.ibm.com/support/knowledgecenter/SSEQTP_8.5.5/com.ibm.websphere.base.doc/ae/tsec_SPNEGO_token.html
+
+https://apereo.github.io/cas/5.3.x/installation/SPNEGO-Authentication.html
