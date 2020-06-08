@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f48570d4-5623-484c-9710-76c68db56077" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../spring-security-kerberos/src/main/java/com/baeldung/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-security-kerberos/src/main/java/com/baeldung/config/WebSecurityConfig.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1d0NEhgmNZGiz1bFMHRT0wEfsL9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="codes.rb.Main" />
+      <module name="spnegoClient" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f48570d4-5623-484c-9710-76c68db56077" name="Default Changelist" comment="" />
+      <created>1591557940558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591557940558</updated>
+      <workItem from="1591558530578" duration="4825000" />
+      <workItem from="1591599000873" duration="937000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1511" height="297" key="GridCell.Tab.0.bottom" timestamp="1591568504798">
+      <screen x="43" y="32" width="1557" height="868" />
+    </state>
+    <state width="1874" height="173" key="GridCell.Tab.0.bottom/3840.102.1600.900/0.134.1920.946/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591566537177" />
+    <state width="1511" height="297" key="GridCell.Tab.0.bottom/3840.102.1600.900/43.32.1557.868/1920.0.1920.1080@43.32.1557.868" timestamp="1591568504798" />
+    <state width="1511" height="297" key="GridCell.Tab.0.center" timestamp="1591568504798">
+      <screen x="43" y="32" width="1557" height="868" />
+    </state>
+    <state width="1874" height="173" key="GridCell.Tab.0.center/3840.102.1600.900/0.134.1920.946/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591566537176" />
+    <state width="1511" height="297" key="GridCell.Tab.0.center/3840.102.1600.900/43.32.1557.868/1920.0.1920.1080@43.32.1557.868" timestamp="1591568504798" />
+    <state width="1511" height="297" key="GridCell.Tab.0.left" timestamp="1591568504798">
+      <screen x="43" y="32" width="1557" height="868" />
+    </state>
+    <state width="1874" height="173" key="GridCell.Tab.0.left/3840.102.1600.900/0.134.1920.946/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591566537176" />
+    <state width="1511" height="297" key="GridCell.Tab.0.left/3840.102.1600.900/43.32.1557.868/1920.0.1920.1080@43.32.1557.868" timestamp="1591568504798" />
+    <state width="1511" height="297" key="GridCell.Tab.0.right" timestamp="1591568504798">
+      <screen x="43" y="32" width="1557" height="868" />
+    </state>
+    <state width="1874" height="173" key="GridCell.Tab.0.right/3840.102.1600.900/0.134.1920.946/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591566537177" />
+    <state width="1511" height="297" key="GridCell.Tab.0.right/3840.102.1600.900/43.32.1557.868/1920.0.1920.1080@43.32.1557.868" timestamp="1591568504798" />
+    <state width="663" height="322" key="javadoc.popup.new" timestamp="1591559263382">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="663" height="322" key="javadoc.popup.new/3840.102.1600.900/0.134.1920.946/1920.0.1920.1080@1920.0.1920.1080" timestamp="1591559263382" />
+  </component>
+</project>
